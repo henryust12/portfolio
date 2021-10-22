@@ -24,14 +24,13 @@
 .avatar {
     background-color: #f8f9fa;
     padding: 5em;
+   
     
 }
-
-.profile{
-   
-  border-radius: 50%;
-
+.avatar img{
+    border-radius: 50%;
 }
+
 
 .bgw{
     background-color: #f8f9fa;
