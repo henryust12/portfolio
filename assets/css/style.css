@@ -3,8 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
 
+
+/* google font japanese */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&display=swap');
+
+
+
 /* bootstrap icon */
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css");
+
+
 
 
 
@@ -66,14 +75,23 @@ footer p span{
     font-size: xx-large;
     font-family: 'Press Start 2P', cursive;
 }
-.hi span{
+.hi-jp{
+    font-size: xx-large;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.hi span, .hi-jp span {
     background-color: limegreen;
 }
 
-.container{
+.font-container{
     font-family: 'Roboto', sans-serif;
+}
+.font-container-jp{
+    font-family: 'Noto Sans JP', sans-serif;
 }
 h1{
     padding-bottom: 1rem;
     border-bottom: solid 8px #212529;
 }
+
+
