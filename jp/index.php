@@ -171,7 +171,7 @@
 
         <!-- Tools -->
         <h1><i class="bi bi-tools"></i>
-            ツールと言語</h1>
+            ツール・言語</h1>
         <h2>ツール</h2>
         <div data-aos="zoom-out-left">
             <img style="margin: 10px" src="../assets/img/skill-and-tool/raspberrypi.png" alt="Raspberry Pi" height="75" />
