@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="jp">
+<!-- JAPANESE -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- bootstarp css v5-->
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.css">
+    <!-- mycss -->
+    <link rel="stylesheet" href="../assets/css/style.css">
+
+
+    <!-- AOS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+
+    <title>Portfolio</title>
+
+</head>
+
+<body>
+    <div class="bg-white text-dark">
+
+
+
+    </div>
+
+
+
+    <!-- navbar start -->
+    <nav class="navbar navbar-light bg-dark">
+        <div class="container-fluid">
+            <div class="d-flex">
+                <a class="navbar-brand text-white" href="../">
+                    <button type="button" class="btn btn-outline-danger">
+                        <!-- 日本語 -->
+                        <img src="../assets/img/japan.png" alt="" height="20px">
+                    </button>
+                </a>
+
+                <a class="navbar-brand text-white" href="/en">
+                    <button type="button" class="btn btn-outline-primary">
+                        <!-- ENGLISH -->
+                        <img src="../assets/img/united-kingdom.png" alt="" height="20px">
+                    </button>
+                </a>
+
+                <a class="navbar-brand text-white" href="#">
+                    <button type="button" class="btn btn-outline-success" disabled>
+                        <!-- INDONESIA -->
+                        <img src="../assets/img/indonesia.png" alt="" height="20px">
+                    </button>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- navbar end  -->
+
+
+    <!-- container -->
+    <div class="container font-container bg-dark text-white">
+
+    </div>
+
+    <div class="jumbotron bg-white text-dark">
+
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+            <path fill="#212529" fill-opacity="1"
+                d="M0,288L13.3,272C26.7,256,53,224,80,192C106.7,160,133,128,160,112C186.7,96,213,96,240,117.3C266.7,139,293,181,320,165.3C346.7,149,373,75,400,64C426.7,53,453,107,480,144C506.7,181,533,203,560,208C586.7,213,613,203,640,192C666.7,181,693,171,720,138.7C746.7,107,773,53,800,53.3C826.7,53,853,107,880,112C906.7,117,933,75,960,64C986.7,53,1013,75,1040,112C1066.7,149,1093,203,1120,218.7C1146.7,235,1173,213,1200,192C1226.7,171,1253,149,1280,128C1306.7,107,1333,85,1360,80C1386.7,75,1413,85,1427,90.7L1440,96L1440,0L1426.7,0C1413.3,0,1387,0,1360,0C1333.3,0,1307,0,1280,0C1253.3,0,1227,0,1200,0C1173.3,0,1147,0,1120,0C1093.3,0,1067,0,1040,0C1013.3,0,987,0,960,0C933.3,0,907,0,880,0C853.3,0,827,0,800,0C773.3,0,747,0,720,0C693.3,0,667,0,640,0C613.3,0,587,0,560,0C533.3,0,507,0,480,0C453.3,0,427,0,400,0C373.3,0,347,0,320,0C293.3,0,267,0,240,0C213.3,0,187,0,160,0C133.3,0,107,0,80,0C53.3,0,27,0,13,0L0,0Z">
+            </path>
+        </svg>
+    </div>
+    <!-- <div class="text-center" id="avatar">
+            <img src="" class="rounded mx-auto d-block" alt="...">
+        </div> -->
+
+    <!-- <img src="assets/img/profile.png" class="img-thumbnail" alt="..."> -->
+    <div data-aos="fade-down-left">
+        <div class="text-center bg-white text-dark avatar">
+            <img src="../assets/img/profile.png" class="img-fluid">
+        </div>
+    </div>
+
+
+
+
+    <!-- main -->
+    <div class="container font-container">
+
+
+        <div data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+           data-aos-duration="2000">
+           <p class="hi">
+            Halo... nama saya <span>hendri simarmata</span>. Sekarang saya
+            sedang belajar di salah satu kampus IT Bussiness di Tokyo dengan program study programmer.
+        </p>
+        </div>
+
+        
+
+
+        <!-- external link -->
+        <div class="ExternalLink">
+            <!-- github -->
+            <a class="btn btn-outline-dark" href="https://github.com/henryust12" role="button">
+                <i class="bi-github" role="img" aria-label="GitHub"></i>
+            </a>
+            <!-- linkedin -->
+            <a class="btn btn-outline-dark" href="https://linkedin.com/in/henry-simarmata-581133216" role="button">
+                <i class="bi-linkedin" role="img" aria-label="Linkedin"></i>
+            </a>
+            <!-- instagram -->
+            <a class="btn btn-outline-dark" href="https://instagram.com/bang__shima/" role="button">
+                <i class="bi-instagram" role="img" aria-label="Instagram"></i>
+            </a>
+            <!-- youtube -->
+            <a class="btn btn-outline-dark" href="https://www.youtube.com/channel/UCIv8eviCFks4lCW-yPEgxkg"
+                role="button">
+                <i class="bi-youtube" role="img" aria-label="Youtube"></i>
+            </a>
+
+
+            <!-- external link end -->
+        </div>
+
+        <!-- main end -->
+
+        <br><br><br><br><br><br><br><br><br><br>
+
+
+        <!-- myskills -->
+        <div data-aos="zoom-in-down">
+            <h1><i class="bi bi-bookmark-star-fill"></i>
+                Keahlian</h1>
+
+
+            <h5>Bahasa Indonesia</h5>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0"
+                    aria-valuemax="100"></div>
+            </div>
+
+
+            <h5>Bahasa Jepang</h5>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
+                    aria-valuemax="100"></div>
+            </div>
+
+
+            <h5>Bahasa Inggris</h5>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
+                    aria-valuemax="100"></div>
+            </div>
+        </div>
+        <!-- myskills end -->
+
+
+
+        <br><br><br><br><br><br><br><br><br><br>
+
+
+        <!-- Tools -->
+        <h1><i class="bi bi-tools"></i>
+            ツールと言語</h1>
+        <h2>Alat</h2>
+        <div data-aos="zoom-out-left">
+            <img style="margin: 10px" src="../assets/img/skill-and-tool/raspberrypi.png" alt="Raspberry Pi" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/xampp.png" alt="XAMPP" height="75" />
+
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/git-scm-icon.svg" alt="Git" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/laravel-plain-wordmark.svg" alt="Laravel"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/wordpress.png" alt="WordPress" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/adobe_illustrator-icon.svg" alt="Illustrator"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/mariadb.png" alt="Maria DB" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/android-original-wordmark.svg" alt="Android"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/photoshop-plain.svg" alt="Photoshop" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/adobedreamweaver.png" alt="Dreamweaver "
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/jquery.png" alt="jQuery" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/powershell.png" alt="PowerShell" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/dot-net-original-wordmark.svg" alt=".NET"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/adobexd.png" alt="Adobe XD" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/gitlab.svg" alt="GitLab" height="75" />
+        
+        </div>
+        
+        <hr>
+
+
+        <h2>Bahasa Pemrograman</h2>
+        <h4>Front-End</h4>
+        <div data-aos="zoom-out-right">
+            <img style="margin: 10px" src="../assets/img/skill-and-tool/bootstrap-plain.svg" alt="Bootstrap" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/css3-original-wordmark.svg" alt="CSS3"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/html5-original-wordmark.svg" alt="HTML5"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/javascript-original.svg" alt="JavaScript"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/sass-original.svg" alt="Sass" height="75" />
+
+        </div>
+        
+
+
+
+        <h4>Back-End</h4>
+        <div data-aos="zoom-out-left">
+            <img style="margin: 10px" src="../assets/img/skill-and-tool/php-original.svg" alt="PHP" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/mysql-original-wordmark.svg" alt="MySQL"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/python-original.svg" alt="Python" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/nginx-original.svg" alt="Nginx" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/cplusplus-original.svg" alt="C++" height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/java-original-wordmark.svg" alt="Java"
+            height="75" />
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/go-original.svg" alt="Go" height="75" />
+
+        </div>
+        
+
+
+        <!-- tools end -->
+
+
+
+
+
+
+
+        <br><br><br><br><br><br><br><br><br><br>
+
+
+        <!-- contact -->
+        <div data-aos="flip-up">
+            <h1><i class="bi bi-envelope-fill"></i>
+                Hubungi saya</h1>
+            <h3>
+                Silahkan hubungi saya via email dibawah
+            </h3>
+            <h3><i class="bi bi-arrow-down"></i></h3>
+            <h3>
+                Gmail
+                <a href="mailto: it20083006@tsb-yyg.ac.jp"><img class="gb_tc"
+                        src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"
+                        srcset="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r2.png 2x ,https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 1x"
+                        alt="" aria-hidden="true" style="width:109px;height:40px"></a>
+    
+    
+                <!-- Unduh CV -->
+                <!-- download -->
+                <!-- <a class="btn btn-outline-dark" href="#" role="button">
+                    <i class="bi-cloud-arrow-down-fill" role="img" aria-label="Download"></i>
+                </a> -->
+    
+            </h3>
+        </div>
+        <!-- Contact end -->
+
+
+
+    </div>
+    <!-- container end -->
+
+
+    <!-- footer -->
+    <!-- 
+        <div class="jumbotron jumbotron bg-white text-dark">
+
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+                <path fill="#212529" fill-opacity="1"
+                    d="M0,256L13.3,240C26.7,224,53,192,80,165.3C106.7,139,133,117,160,101.3C186.7,85,213,75,240,101.3C266.7,128,293,192,320,197.3C346.7,203,373,149,400,149.3C426.7,149,453,203,480,197.3C506.7,192,533,128,560,96C586.7,64,613,64,640,53.3C666.7,43,693,21,720,58.7C746.7,96,773,192,800,218.7C826.7,245,853,203,880,165.3C906.7,128,933,96,960,101.3C986.7,107,1013,149,1040,149.3C1066.7,149,1093,107,1120,96C1146.7,85,1173,107,1200,133.3C1226.7,160,1253,192,1280,208C1306.7,224,1333,224,1360,229.3C1386.7,235,1413,245,1427,250.7L1440,256L1440,320L1426.7,320C1413.3,320,1387,320,1360,320C1333.3,320,1307,320,1280,320C1253.3,320,1227,320,1200,320C1173.3,320,1147,320,1120,320C1093.3,320,1067,320,1040,320C1013.3,320,987,320,960,320C933.3,320,907,320,880,320C853.3,320,827,320,800,320C773.3,320,747,320,720,320C693.3,320,667,320,640,320C613.3,320,587,320,560,320C533.3,320,507,320,480,320C453.3,320,427,320,400,320C373.3,320,347,320,320,320C293.3,320,267,320,240,320C213.3,320,187,320,160,320C133.3,320,107,320,80,320C53.3,320,27,320,13,320L0,320Z">
+                </path>
+            </svg>
+
+        </div> -->
+    </div>
+
+    <footer class="bg-white text-dark text-center">
+        <p>
+            Created with <span><i class="bi bi-heart-fill"></i>
+            </span> by Hendri Simarmata
+        </p>
+    </footer>
+    <!-- footer end -->
+
+
+
+
+
+
+
+
+    <!-- bootstrap js -->
+    <script src="assets/bootstrap/js/bootstrap.js"></script>
+
+
+    <!-- AOS Script -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+
+</html>
