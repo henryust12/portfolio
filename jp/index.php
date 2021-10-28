@@ -104,6 +104,7 @@
 
 
         <!-- external link -->
+        <div data-aos="fade-down-right">
         <div class="ExternalLink">
             <!-- github -->
             <a class="btn btn-outline-dark" href="https://github.com/henryust12" role="button">
@@ -124,8 +125,11 @@
             </a>
 
 
-            <!-- external link end -->
+            
         </div>
+        </div>
+        
+        <!-- external link end -->
 
         <!-- main end -->
 
