@@ -195,7 +195,7 @@
             height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/adobexd.png" alt="Adobe XD" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/gitlab.svg" alt="GitLab" height="75" />
-        
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/nginx-original.svg" alt="Nginx" height="75" />
         </div>
         
         <hr>
@@ -224,7 +224,6 @@
         <img style="margin: 10px" src="../assets/img/skill-and-tool/mysql-original-wordmark.svg" alt="MySQL"
             height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/python-original.svg" alt="Python" height="75" />
-        <img style="margin: 10px" src="../assets/img/skill-and-tool/nginx-original.svg" alt="Nginx" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/cplusplus-original.svg" alt="C++" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/java-original-wordmark.svg" alt="Java"
             height="75" />
