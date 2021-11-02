@@ -183,7 +183,9 @@
         <img style="margin: 10px" src="../assets/img/skill-and-tool/wordpress.png" alt="WordPress" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/adobe_illustrator-icon.svg" alt="Illustrator"
             height="75" />
-        <img style="margin: 10px" src="../assets/img/skill-and-tool/mariadb.png" alt="Maria DB" height="75" />
+        <!-- <img style="margin: 10px" src="../assets/img/skill-and-tool/mariadb.png" alt="Maria DB" height="75" /> -->
+        <img style="margin: 10px" src="../assets/img/skill-and-tool/mysql-original-wordmark.svg" alt="MySQL"
+            height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/android-original-wordmark.svg" alt="Android"
             height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/photoshop-plain.svg" alt="Photoshop" height="75" />
@@ -221,8 +223,6 @@
         <h4>バックエンド</h4>
         <div data-aos="zoom-out-left">
             <img style="margin: 10px" src="../assets/img/skill-and-tool/php-original.svg" alt="PHP" height="75" />
-        <img style="margin: 10px" src="../assets/img/skill-and-tool/mysql-original-wordmark.svg" alt="MySQL"
-            height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/python-original.svg" alt="Python" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/cplusplus-original.svg" alt="C++" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/java-original-wordmark.svg" alt="Java"
