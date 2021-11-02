@@ -21,11 +21,11 @@
 </head>
 
 <body>
-    <div class="bg-white text-dark">
+    <div class="container-fluid">
 
 
 
-    </div>
+    
 
 
 
@@ -304,7 +304,7 @@
     </footer>
     <!-- footer end -->
     </div>
-
+</div>
 
 
 
