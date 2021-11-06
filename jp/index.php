@@ -174,8 +174,9 @@
             ツール・言語</h1>
         <h2>ツール</h2>
         <div data-aos="zoom-out-left">
+            <img style="margin: 10px" src="../assets/img/skill-and-tool/linux-original.svg" alt="Linux" height="75" />
             <img style="margin: 10px" src="../assets/img/skill-and-tool/raspberrypi.png" alt="Raspberry Pi" height="75" />
-        <img style="margin: 10px" src="../assets/img/skill-and-tool/xampp.png" alt="XAMPP" height="75" />
+            <img style="margin: 10px" src="../assets/img/skill-and-tool/xampp.png" alt="XAMPP" height="75" />
 
         <img style="margin: 10px" src="../assets/img/skill-and-tool/git-scm-icon.svg" alt="Git" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/laravel-plain-wordmark.svg" alt="Laravel"
