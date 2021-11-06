@@ -228,7 +228,7 @@
         <img style="margin: 10px" src="../assets/img/skill-and-tool/cplusplus-original.svg" alt="C++" height="75" />
         <img style="margin: 10px" src="../assets/img/skill-and-tool/java-original-wordmark.svg" alt="Java"
             height="75" />
-        <img style="margin: 10px" src="../assets/img/skill-and-tool/go-original.svg" alt="Go" height="75" />
+        <!-- <img style="margin: 10px" src="../assets/img/skill-and-tool/go-original.svg" alt="Go" height="75" /> -->
 
         </div>
         
