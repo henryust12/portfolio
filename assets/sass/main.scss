@@ -1,0 +1,19 @@
+// Font Awesome
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+
+// Tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Custom
+@import "variable";
+@import "typography";
+
+
+
+
+
+.hs-bg1 {
+    background-color: $bg-1;
+}

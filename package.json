@@ -3,5 +3,9 @@
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "tw": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -w",
+    "sass": "sass --watch --no-source-map ./assets/sass/main.scss ./assets/css/main.css"
   }
 }

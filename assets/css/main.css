@@ -1,3 +1,84 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+:root, *, ::before, ::after {
+  --bg-1: #292F36;
+  --bg-2: #1A1E23;
+  --bg-3: #6a6e75;
+  --brand-1: #12F7D6;
+  --brand-2: #98FAEC;
+  --html: #E54F26;
+  --js: #E7A020;
+  --react: #28A9E0;
+  --sass: #c76494;
+  --shopify: #98c04c;
+  --laravel: #ff3326;
+  --php: #7b7fb5;
+  --code-igniter: #f1543d;
+  --linux: #f6b908;
+  --tailwind: #21b3bc;
+}
+
+.hs-button, .hs-big-title {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+.hs-big-title {
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.hs-h1, .hs-h2, .hs-h3, .hs-h4, .hs-h5, .hs-h6 {
+  font-family: "Montserrat", sans-serif;
+}
+.hs-h1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+.hs-h2 {
+  font-weight: 600;
+  font-size: 32px;
+}
+.hs-h3, .hs-h4 {
+  font-weight: 500;
+  font-size: 28px;
+}
+.hs-h4 {
+  font-size: 24px;
+}
+.hs-h5, .hs-h6 {
+  font-weight: 400;
+}
+.hs-h5 {
+  font-size: 20px;
+}
+.hs-h6 {
+  font-size: 16px;
+}
+.hs-p, .hs-a, .hs a {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+.hs-number {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 400;
+  font-size: 16px;
+}
+.hs-button {
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+.hs-a, .hs a {
+  text-decoration: underline;
+}
+
+.hs-bg1 {
+  background-color: var(--bg-1);
+}

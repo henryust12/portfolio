@@ -1,0 +1,79 @@
+// /* import google font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+$font-montserrat: 'Montserrat', sans-serif;
+$font-open-sans: 'Open Sans', sans-serif;
+$font-roboto-mono: 'Roboto Mono', monospace;
+
+%montserrat-style {
+  font-family: $font-montserrat;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+.hs-big-title {
+  @extend %montserrat-style;
+  font-optical-sizing: auto;
+  font-weight: 700; // Bold
+  font-size: 48px;
+}
+
+.hs {
+  &-h1, &-h2, &-h3, &-h4, &-h5, &-h6 {
+    font-family: $font-montserrat;
+  }
+
+  &-h1 {
+    font-weight: 700; // Bold
+    font-size: 36px;
+  }
+
+  &-h2 {
+    font-weight: 600; // Semi-Bold
+    font-size: 32px;
+  }
+
+  &-h3, &-h4 {
+    font-weight: 500; // Medium
+    font-size: 28px;
+  }
+
+  &-h4 {
+    font-size: 24px;
+  }
+
+  &-h5, &-h6 {
+    font-weight: 400; // Regular
+  }
+
+  &-h5 {
+    font-size: 20px;
+  }
+
+  &-h6 {
+    font-size: 16px;
+  }
+
+  &-p, &-a, a {
+    font-family: $font-open-sans;
+    font-weight: 400; // Regular
+    font-size: 16px;
+  }
+
+  &-number {
+    font-family: $font-roboto-mono;
+    font-weight: 400; // Regular
+    font-size: 16px;
+  }
+
+  &-button {
+    @extend %montserrat-style;
+    font-weight: 500; // Medium
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  &-a, a {
+    text-decoration: underline;
+  }
+}
